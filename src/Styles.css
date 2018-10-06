@@ -25,3 +25,11 @@
 .widget.PopularPosts {
 	display: none !important;
 }
+
+.deal-box.cf {
+	background: #2f2f2f !important;
+}
+
+.footer.cf {
+	background : #222 !important;
+}
