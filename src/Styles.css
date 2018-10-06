@@ -33,3 +33,7 @@
 .footer.cf {
 	background : #222 !important;
 }
+
+.sponsor {
+	display: none !important;
+}
