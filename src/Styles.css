@@ -42,6 +42,6 @@
 	color: #ccc !important;
 }
 
-.story-title {
+.static_title a, .story-title a {
 	color: #aaa !important;
 }
